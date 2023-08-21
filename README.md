@@ -1,6 +1,10 @@
-## Simples project where I used only what i had in my mind to build whit no researchs.
+## Simple project where I used only what i had in my mind to build whit no research.
 
-## Tecnologies
+## :computer:  Tecnologies
 
---HTML
---CSS
+<li>
+  HTML
+</li>
+<li>
+  CSS
+</li>
