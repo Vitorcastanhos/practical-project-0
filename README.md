@@ -9,4 +9,6 @@
   CSS
 </li>
 
+<br />
+
 ![image](https://github.com/Vitorcastanhos/Login-Screen_Challenge-1/assets/77864032/c4aadeee-aa83-46ad-a868-522e044b35b8)
