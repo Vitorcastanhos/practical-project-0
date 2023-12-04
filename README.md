@@ -12,7 +12,7 @@ A small sign-in/up login page to practice more about HTML and CSS. Actually to w
 
 # 💻 Usage
 
-1. You can open the project using the link from Git Hub: https://vitorcastanhos.github.io/Static-page-0/#
+1. You can open the project using the link from GitHub: https://vitorcastanhos.github.io/Static-page-0/#
 
 <br/>
 
