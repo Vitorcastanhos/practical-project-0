@@ -16,9 +16,13 @@ A small sign-in/up login page to practice more about HTML and CSS. Actually to w
 
 <br/>
 
+![image](https://github.com/Vitorcastanhos/practical-project-0/assets/77864032/25a10de3-a77f-49a6-b1ce-26f17ca1a258) => Wicked CSS Animations: https://kristofferandreasen.github.io/wickedCSS/
+
+<br/>
+
 # 💻 Usage
 
-1. You can open the project using the link from GitHub: https://vitorcastanhos.github.io/Static-page-0/#
+1. You can open the project using the link from GitHub: [https://vitorcastanhos.github.io/Static-page-0/#](https://vitorcastanhos.github.io/practical-project-0/)
 
 <br/>
 
