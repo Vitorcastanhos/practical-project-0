@@ -1,4 +1,10 @@
-# Static-page
+# Practical Project 0
+
+## Preview
+
+![image](https://github.com/Vitorcastanhos/Login-Screen_Challenge-1/assets/77864032/c4aadeee-aa83-46ad-a868-522e044b35b8)
+
+<br/>
 
 A small sign-in/up login page to practice more about HTML and CSS. Actually to write it down what I've been learning.
 
@@ -25,9 +31,3 @@ You can customize the way you want.
 # :memo: License
 
 MIT License.
-
-<br />
-
-## Preview
-
-![image](https://github.com/Vitorcastanhos/Login-Screen_Challenge-1/assets/77864032/c4aadeee-aa83-46ad-a868-522e044b35b8)
